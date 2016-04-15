@@ -1,6 +1,5 @@
 # zumy_teleop
-A wrapper node of turtlebot_teleop for driving Zumy
-
+A wrapper node of turtlebot_teleop for driving Zumy with keyboard
 ## Dependency
 turtlebot_teleop: http://wiki.ros.org/turtlebot_teleop
 
